@@ -1,0 +1,88 @@
+.title
+{
+    background-color: rgb(221 230 237);
+    border: 20px double rgb(21, 27, 44);
+    color:27374D;
+    width:1000px;
+    padding: 10px;
+    margin: 20px 40px;
+    border-radius: 10px;
+    font-size: 40;
+    text-shadow: 0px 0px 20px rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.info
+{
+    background-color:rgb(82 109 130);
+    border: 5px solid rgb(21, 27, 44);
+    color:rgb(221 230 237);
+    width: 640px;
+    padding: 10px;
+    margin: 0px 140px 40px;  
+    border-radius: 10px;
+    font-size: 20;
+    text-shadow: 5px 5px 4px rgb(38, 49, 80);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titlehighlight
+{
+    background-color:27374D;
+    border: 10px dashed rgb(21, 27, 44);
+    color:rgb(221 230 237);
+    width: 810px;
+    padding: 10px;
+    margin-left: 70px;
+    margin-right: 65x;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button
+{
+    background-color:rgb(21, 27, 44);;
+    color:rgb(221 230 237);
+    border-radius: 10px;
+    font-size: 30;
+    text-shadow: 0px 0px 20px rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a
+{
+    color:white;
+    text-decoration:none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:hover
+{
+    text-decoration: underline overline;
+    color:white;
+    font-size: 25px;
+    text-shadow: 2px 1px 0px rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol.num
+{
+    list-style-type: decimal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul.squares
+{
+    list-style-type: square;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body
+{
+    background:bg.jfif;
+}
